@@ -334,9 +334,6 @@ This makes it a useful foundational project for exploring **AI Engineering, Gene
 
 **Navin Patel**
 
-Real Demo:
-https://youtu.be/-ZTdCkpBVlw
-
 GitHub:
 
 ```text
